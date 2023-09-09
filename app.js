@@ -18,7 +18,7 @@ app.get("/api", (req, res) => {
 
   // Define GitHub file and repo URLs
   const githubFileUrl =
-    "https://github.com/Dubjay18/hg-one/index.js";
+    "https://github.com/Dubjay18/hg-one/blob/main/index.js";
   const githubRepoUrl =
     "https://github.com/Dubjay18/hg-one";
 
