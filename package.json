@@ -1,7 +1,7 @@
 {
-  "name": "y",
+  "name": "hg-one-jay",
   "version": "1.0.0",
-  "description": "��#\u0000 \u0000h\u0000g\u0000-\u0000o\u0000n\u0000e\u0000\r\u0000 \u0000",
+  "description": "task-1",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
